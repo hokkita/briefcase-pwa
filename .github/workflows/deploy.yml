@@ -50,4 +50,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           # if got cname
-          cname: www.briefcase.hokkita.com
+          cname: briefcase.hokkita.com
