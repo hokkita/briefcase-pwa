@@ -25,7 +25,7 @@ export default defineConfig({
         name: 'BRIEFCASE',
         shortname: 'BRIEFCASE',
         description: 'Playground for Investor & Business Owner',
-        theme_color: '#222C3C',
+        theme_color: '#27AAE1',
         icons: [
           {
             src: 'briefcase-192x192.png',
